@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehrawbmh
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning advanced django
 - 💞️ I’m looking to collaborate on everything to improve my skills
 - 📫 I'm from Iran
 

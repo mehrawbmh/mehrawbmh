@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mehrawbmh
 - 👀 I’m interested in learning new stuff
 - 📫 I'm from Iran
-- 🌱 I’m currently learning advanced django
+- 🌱 I’m currently learning Go programming language
 - 💞️ I’m looking to collaborate on open source projects to improve my skills
 
 <!---

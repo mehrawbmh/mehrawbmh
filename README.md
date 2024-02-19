@@ -2,8 +2,7 @@
 - 👀 I’m interested in learning Software engineering pinciples
 - 📫 I'm from Iran
 - 🌱 I’m currently learning Go programming language
-
-  Willing to collaborate on open source projects
+- Willing to collaborate on open source projects
 <!---
 mehrawbmh/mehrawbmh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

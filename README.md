@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @mehrawbmh
-- 👀 I’m interested in learning new stuff
+- 👀 I’m interested in learning Software engineering pinciples
 - 📫 I'm from Iran
 - 🌱 I’m currently learning Go programming language
-- 💞️ I’m looking to collaborate on open source projects to improve my skills
 
+  Willing to collaborate on open source projects
 <!---
 mehrawbmh/mehrawbmh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

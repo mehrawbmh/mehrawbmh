@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @mehrawbmh
-- 👀 I’m interested in learning Software engineering pinciples
 - 📫 I'm from Iran
-- 🌱 I’m currently learning Go programming language and clean architecture
+- 🌱 I’m currently learning Typescript and ReactJS
 - Willing to collaborate on open source projects
+- Bachelor of science in Electrical Enginerring from University of Tehran (Digital Systems focus)
+- 4+ years of work in back-end industry
 <!---
 mehrawbmh/mehrawbmh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
